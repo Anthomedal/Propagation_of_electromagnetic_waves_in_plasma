@@ -1,0 +1,2 @@
+Dans cette version on calcule la vitesse de groupe de façon moyenne en utilisant la fonction spline modifiée qui cherche précisemment le milieu des points
+d'inflexion
