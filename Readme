@@ -1,0 +1,9 @@
+=== Français === 
+Language utilisé : Python 3.6.5 
+Paquets nécessaires : Numpy, Matplotlib 
+Commande : python main.py (ou python3 main.py)
+
+=== English === 
+Langage : Python 3.6.5
+Necessary packages : Numpy, Matplotlib
+Command : python main.py (or python3 main.py)
